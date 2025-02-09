@@ -35,7 +35,7 @@ A VBA-based tool for **translating entire Excel workbooks** while preserving for
 ### **Step 1: Run the Macro**
 1. Open your Excel file.  
 2. Press **`ALT + F8`** to open the **Macro Window**.  
-3. Select **`TranslateWorkbookWithJSON`**.  
+3. Select **`TranslateEntireWorkbook`**.  
 4. Click **"Run"**.  
 
 ### **Step 2: Translation Process**
